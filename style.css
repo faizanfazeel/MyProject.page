@@ -1,0 +1,228 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.profile {
+    padding: 20px;
+    text-align: center;
+    background-color: #ffffff;
+}
+
+
+.image {
+    width: 80vw;
+
+}
+
+.heading {
+    font-size: 24px;
+    font-family: Bree Serif;
+    color: #183b56;
+}
+
+.paragarph {
+    font-size: 15px;
+    font-family: Bree Serif;
+    color: #616e7c;
+
+}
+
+.images-detail {
+    height: 80px;
+    width: 140px;
+    margin: 5px;
+
+}
+
+
+
+.bg-container {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-container {
+    background-color: #ffffff;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    padding: 16px;
+
+}
+
+.main-heading {
+    font-family: "Bree Serif";
+    color: #5752ab;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.paragarph {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-size: 16px;
+
+}
+
+.button {
+    height: 36px;
+    width: 130px;
+    border-radius: 10px;
+    margin-right: 5px;
+    margin-left: 5px;
+    border-style: solid;
+}
+
+.button-white {
+    background-color: #ffffff;
+    border-color: #d7dfe9;
+    color: #171f46;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+    border-width: 1px;
+}
+
+.button-blue {
+    background-color: #5752ab;
+    color: #ffffff;
+    font-family: "Roboto";
+    font-size: 12px;
+    border-width: 0px;
+}
+
+.background-top-section {
+    background-image: url("https://img.freepik.com/premium-vector/diwali-deepavali-dipavali-festival-lights-india-with-gold-diya-patterned-crystals-paper-color-background_38689-1477.jpg?w=2000");
+    background-size: cover;
+    height: 30vh;
+}
+
+.top-section-heading {
+    color: white;
+    font-family: "caveat";
+    font-size: 36px;
+    width: 200px;
+    padding: 20px;
+}
+
+.bottom-section {
+    background-color: gainsboro;
+    padding: 20px;
+    text-align: center;
+}
+
+.card-item {
+    background-color: white;
+    width: 150px;
+    border-radius: 10px;
+    text-align: center;
+    padding: 14px;
+    margin: 20px;
+
+}
+
+.card-image {
+    width: 64px;
+    height: 64px;
+}
+
+.card-heading {
+    font-size: 15px;
+    color: #616a76;
+    font-family: "Roboto";
+    padding: 8px;
+}
+
+.card-price {
+    color: #323f45;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 16px;
+
+}
+
+
+.bg-meals-container {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/foodbg.png");
+    background-size: cover;
+    height: 100vh;
+    font-weight: bold;
+
+}
+
+.meals-card {
+    background-color: #f6c56e;
+    color: #323f4b;
+    padding: 24px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.main-heading {
+    font-family: "Bree Serif";
+    font-size: 30px;
+}
+
+.paragarph {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 16px;
+    color: #323f4b;
+
+}
+
+.button {
+    border-radius: 8px;
+    border-width: 0px;
+    background-color: #ffffff;
+    font-family: Roboto;
+    height: 40px;
+    width: 130px;
+    font-size: 11px;
+    font-weight: 500;
+}
+
+.bg-news-container {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/newsbg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.card-container {
+    background-color: #ffffff;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+    padding: 25px;
+}
+
+.top-heading {
+    font-size: 12px;
+    color: #7b8794;
+    font-family: "Roboto";
+    margin: 0px;
+}
+
+.middle-heading {
+    font-size: 20px;
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 500;
+    margin-bottom: 15px;
+
+}
+
+.paragarph {
+    color: #7b8794;
+    font-family: "Roboto";
+    font-size: 11px;
+}
+
+.button {
+    background-color: #323f4b;
+    color: #ffffff;
+    height: 36px;
+    width: 120px;
+    border-radius: 10px;
+    border-width: 0px;
+    font-family: "Roboto";
+    font-size: 12px;
+    font-weight: 500;
+}
